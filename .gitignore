@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/iFXManager.API/iFXManager.Repository/bin/Debug/net8.0
+/iFXManager.API/iFXManager.Repository/obj
+/iFXManager.DAL/bin/Debug/net8.0
+/iFXManager.DAL/obj
+/iFXManager.API/.vs
+/iFXManager.API/iFXManager.API/obj/Debug/net8.0
